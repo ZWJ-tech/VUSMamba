@@ -4,5 +4,5 @@
 
 <p align="center">
 <img src="html/model.png"
-height="300">
+height="600">
 </p>
