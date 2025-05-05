@@ -2,7 +2,7 @@
 
 ## Self-supervised learning analysis of multi-FISH labeled cell-type map in thick brain slices
 
-  Weijie Zheng, Yiping An, Kang Li, Jinyue Wang, Huawei Mu, Jin Tang and Hao Wang.
+  Weijie Zheng, Yiping An, Kang Li, Jinyue Wang, Jianqing Gao, Huawei Mu, Jin Tang and Hao Wang.
 
 ### Architecture
 
